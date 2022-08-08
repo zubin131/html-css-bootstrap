@@ -22,7 +22,9 @@ header {
 
 nav {
   background-color: rgba(0,0,0,0.33);
-  height: 40px;
+  text-align: center;
+  padding-top: 14px;
+  padding-bottom: 14px;
 }
 
 main {
@@ -35,8 +37,10 @@ main {
 }
 
 footer {
-  background-color: yellowgreen;
-  height: 100px;
+  background-color:  rgba(0,0,0,0.5);
+  /* height: 100px; */
+  padding-top: 14px;
+  padding-bottom: 14px;
 }
 
 h1 {
@@ -52,4 +56,22 @@ p {
 a {
   color: white;
   /* text-decoration: none; */
+}
+
+nav a {
+  text-decoration: none;
+  font-size: 12px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+footer p {
+  font-size: 10px;
+  /* font-style: italic; */
+  text-align: center;
+  color: rgba(255, 255, 255, 0.637);
+}
+
+.maps {
+  padding-bottom: 100px;
 }
