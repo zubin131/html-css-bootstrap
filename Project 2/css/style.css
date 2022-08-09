@@ -1,12 +1,8 @@
 html {
-<<<<<<< HEAD
   height: 100%;
 }
 body {
   background-image: linear-gradient(#FC5E55, #FA4083);
-=======
-  background-color: #FC5E55;
->>>>>>> b3420a751d543221c8236191cbcc77e5d2499bd0
 }
 
 .container {
@@ -19,24 +15,18 @@ body {
 
 header {
   /* min-height: 100px; */
-<<<<<<< HEAD
   /* background-color: #FC5E55; */
   display: flex;
   padding-top: 20px;
-=======
   display: flex;
   padding-top: 40px;
->>>>>>> b3420a751d543221c8236191cbcc77e5d2499bd0
   padding-bottom: 20px;
   /* padding-left: auto;
   padding-right: auto; */
   /* width: 1024px; */
-<<<<<<< HEAD
   justify-content: space-between;
   align-items: center;
   text-decoration:none;
-=======
->>>>>>> b3420a751d543221c8236191cbcc77e5d2499bd0
 }
 
 main {
@@ -78,17 +68,3 @@ main {
 .herobox2 {
   flex: 1;
 }
-<<<<<<< HEAD
-=======
-
-.logo {
-  flex:3;
-}
-
-.navbar {
-  flex: 1;
-  height: auto;
-  text-decoration: none;
-  color: black;
-}
->>>>>>> b3420a751d543221c8236191cbcc77e5d2499bd0
